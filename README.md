@@ -5,6 +5,12 @@ A minor project on Supply Chain Analytics on an E-Commerce Organization
                                                                                         -By Avishek Chakraborty
 
 Introduction
+
+The Google Doc link for the project -
+
+
+https://docs.google.com/document/d/1HEW6_v2WWyhhCFpPonODZcQBnfji929HfvAH5bgOkcY/edit?usp=drivesdk
+
 Supply chain analytics is a valuable part of data-driven decision-making in various industries such as manufacturing, retail, healthcare, and logistics. It is the process of collecting, analyzing and interpreting data related to the movement of products and services from suppliers to customers.
 Here is a dataset we collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products. Below are all the features in the dataset:
 Order ID
